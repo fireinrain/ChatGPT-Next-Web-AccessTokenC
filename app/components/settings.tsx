@@ -461,7 +461,7 @@ export function Settings() {
             />
           </ListItem>
 
-          <ListItem
+          {/* <ListItem
             title={Locale.Settings.HistoryCount.Title}
             subTitle={Locale.Settings.HistoryCount.SubTitle}
           >
@@ -497,7 +497,7 @@ export function Settings() {
                 )
               }
             ></input>
-          </ListItem>
+          </ListItem> */}
         </List>
 
         <List>
