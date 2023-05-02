@@ -11,7 +11,6 @@ import EditIcon from "../icons/edit.svg";
 import EyeIcon from "../icons/eye.svg";
 import { Input, List, ListItem, Modal, PasswordInput, Popover } from "./ui-lib";
 import { ModelConfigList } from "./model-config";
-import AddIcon from "../icons/add.svg";
 
 import { IconButton } from "./button";
 import {
